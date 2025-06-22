@@ -24,3 +24,11 @@ Hardware:      Arduino | ESP32 | Smart Meters | Sensors
 Tools:         TIA Portal | Proteus | AutoCAD | VS Code
 Platforms:     Linux | Windows | IoT Cloud | GitHub
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mir-nayeem&show_icons=true&theme=calm" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-nayeem&layout=compact&theme=calm" alt="Top Languages" /> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mir-nayeem&theme=calm" alt="Activity Graph" /> </p>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/mir-nayeem/mir-nayeem/main/github-metrics.svg" alt="Metrics Graph"> </p>
+
+
+
