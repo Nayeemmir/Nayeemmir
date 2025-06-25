@@ -1,5 +1,6 @@
 <h2 align="center">"Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh"</h2>
-# 💫 About Me:
+<h3 align="center">"This is Mir Ahammad Abdullah Nayeem"</h3>
+ 💫 About Me:
 🔧 Currently working as a Technical Service Engineer — upgrading and maintaining smart metering systems.<br>🌱 Exploring AI in Electrical Systems, real-time dashboards, and automation with Arduino, ESP, and PLCs.<br>🧰 Built a working Toroid Winding Machine using Arduino, sensors, and precision motor control.<br>🎯 Goal: Bridge traditional electrical tech with intelligent, modern solutions.
 
 
